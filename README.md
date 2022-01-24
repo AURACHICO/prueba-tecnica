@@ -1,5 +1,5 @@
 # RegistrosBuscados
-Es un sistemas que permite atrabes de una API , extraer los datos que esta obtenga, para la busqueda de dichas palabras calves o datos , digitadas por el usuario donde los resultados se mostraran en una tabla. 
+Es un sistema que permite atrabes de una API , extraer los datos que esta obtenga, para la busqueda de dichas palabras calves o datos , digitadas por el usuario donde los resultados se mostraran en una tabla. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
